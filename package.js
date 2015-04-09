@@ -7,7 +7,7 @@ Package.describe({
   git: 'git@github.com:rcy/meteor-tacit.git',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
-  documentation: "https://github.com/rcy/meteor-tacit/blob/master/README.md"
+  documentation: "README.md"
 });
 
 Package.onUse(function(api) {
