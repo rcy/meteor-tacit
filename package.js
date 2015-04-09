@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'tacit',
+  name: 'rcy:tacit',
   version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'CSS Framework for Dummies',
